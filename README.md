@@ -16,7 +16,7 @@ User and developer [documentation of ansaittua](https://codes.dilettant.life/doc
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of ansaittua](https://todo.sr.ht/~sthagen/ansaittua).
+Feature requests and bug reports are best entered in the [todos of ansaittua](https://todo.sr.ht/~sthagen/ansaittua).
 
 ## Primary Source repository
 
