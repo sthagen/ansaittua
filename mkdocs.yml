@@ -3,6 +3,9 @@ site_description: "Earned Value Management (Finnish: ansaittua arvonhallintaa) w
 
 theme:
   name: 'material'
+  features:
+    - navigation.expand
+    - toc.integrate
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
