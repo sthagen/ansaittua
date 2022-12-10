@@ -3,6 +3,8 @@ site_description: "Earned Value Management (Finnish: ansaittua arvonhallintaa) w
 
 theme:
   name: 'material'
+  logo: assets/logo.png
+  favicon: images/favicon.ico
   features:
     - navigation.expand
     - toc.integrate
