@@ -1,8 +1,10 @@
-# ansaittua
+# Ansaittua
 
 Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly.
 
 [License: MIT](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/LICENSE)
+
+Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
 [![downloads](https://pepy.tech/badge/ansaittua/month)](https://pepy.tech/project/ansaittua)
