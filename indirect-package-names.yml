@@ -1,0 +1,19 @@
+---
+packages:
+- appdirs
+- attrs
+- cattrs
+- certifi
+- charset-normalizer
+- click
+- deprecated
+- exceptiongroup
+- idna
+- oauthlib
+- requests
+- requests-oauthlib
+- six
+- typing-extensions
+- url-normalize
+- urllib3
+- wrapt
