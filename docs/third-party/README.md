@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom.json) with SHA256 checksum ([226408a8 ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom.json.sha256 "sha256:226408a8e4819d582fe7bd443931f4f9c9d867fa813a46081f20737b0b59d188")).
-<!--[[[end]]] (checksum: 6e56eded98bc4d635e4fcd9faf16faf2)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom.json) with SHA256 checksum ([efafe77e ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom.json.sha256 "sha256:efafe77e92c88752ed763f16255c0d54d2f82441a275131fa60c0c05bfb37c1a")).
+<!--[[[end]]] (checksum: c94b55a4eb639040281fe9e1afe14eda)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -15,11 +15,11 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) | [3.32.1](https://pypi.org/project/atlassian-python-api/3.32.1/) | Apache Software License | Matt Harasymczuk                                                    | Python Atlassian REST API Wrapper                                       |
 | [cogapp](http://nedbatchelder.com/code/cog)                                   | [3.3.0](https://pypi.org/project/cogapp/3.3.0/)                 | MIT License             | Ned Batchelder                                                      | Cog: A content generator for executing Python snippets in source files. |
 | [jmespath](https://github.com/jmespath/jmespath.py)                           | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)               | MIT License             | James Saryerwinnie                                                  | JSON Matching Expressions                                               |
-| [pydantic](https://github.com/pydantic/pydantic)                              | [1.10.2](https://pypi.org/project/pydantic/1.10.2/)             | MIT License             | Samuel Colvin                                                       | Data validation and settings management using python type hints         |
+| [pydantic](https://github.com/pydantic/pydantic)                              | [1.10.3](https://pypi.org/project/pydantic/1.10.3/)             | MIT License             | Samuel Colvin                                                       | Data validation and settings management using python type hints         |
 | [requests-cache](https://github.com/requests-cache/requests-cache)            | [0.9.7](https://pypi.org/project/requests-cache/0.9.7/)         | BSD License             | Roman Haritonov                                                     | A transparent persistent cache for the requests library                 |
 | [scooby](https://github.com/banesullivan/scooby)                              | [0.7.0](https://pypi.org/project/scooby/0.7.0/)                 | MIT License             | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors | A Great Dane turned Python environment detective                        |
 | [typer](https://github.com/tiangolo/typer)                                    | [0.7.0](https://pypi.org/project/typer/0.7.0/)                  | MIT License             | Sebastián Ramírez                                                   | Typer, build great CLIs. Easy to code. Based on Python type hints.      |
-<!--[[[end]]] (checksum: 67f6b55630717f8d19b2a51a5d071d6f)-->
+<!--[[[end]]] (checksum: cf2c86211048a067acf5a5f26d2e13cb)-->
 
 ### Indirect Dependencies
 
@@ -77,7 +77,7 @@ atlassian-python-api==3.32.1
   - six [required: Any, installed: 1.16.0]
 cogapp==3.3.0
 jmespath==1.0.1
-pydantic==1.10.2
+pydantic==1.10.3
   - typing-extensions [required: >=4.1.0, installed: 4.4.0]
 requests-cache==0.9.7
   - appdirs [required: >=1.4.4, installed: 1.4.4]
@@ -97,4 +97,4 @@ scooby==0.7.0
 typer==0.7.0
   - click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
 ````
-<!--[[[end]]] (checksum: f3dea11488ca62bbfc12c83993c36545)-->
+<!--[[[end]]] (checksum: c92216954f17597ae7dd4f23a3d0e529)-->
