@@ -1,8 +1,8 @@
-SHELL = /bin/bash
-
 .DEFAULT_GOAL := all
-isort = isort ansaittua test
-black = black -S -l 120 --target-version py38 ansaittua test
+black = black -S -l 120 --target-version py310 ansaittua test
+lint = ruff ansaittua test
+pytest = pytest --asyncio-mode=strict --cov=ansaittua --cov-report term-missing:skip-covered --cov-branch --log-format="%(levelname)s %(message)s"
+types = mypy ansaittua
 
 .PHONY: install
 install:
@@ -16,7 +16,7 @@ install-all: install
 
 .PHONY: format
 format:
-	$(isort)
+	$(lint) --fix
 	$(black)
 
 .PHONY: init
@@ -27,17 +27,16 @@ init:
 .PHONY: lint
 lint:
 	python setup.py check -ms
-	flake8 ansaittua/ test/
-	$(isort) --check-only --df
+	$(lint) --diff
 	$(black) --check --diff
 
 .PHONY: types
 types:
-	mypy ansaittua
+	$(types)
 
 .PHONY: test
 test: clean
-	pytest --cov=ansaittua --log-format="%(levelname)s %(message)s" --asyncio-mode=strict
+	$(pytest)
 
 .PHONY: testcov
 testcov: test
