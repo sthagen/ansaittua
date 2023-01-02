@@ -46,9 +46,6 @@ ansaittua = "ansaittua.cli:app"
 include = ["ansaittua"]
 exclude = ["test*"]
 
-[bdist_wheel]
-universal = true
-
 [tool.black]
 line-length = 120
 skip-string-normalization = true
