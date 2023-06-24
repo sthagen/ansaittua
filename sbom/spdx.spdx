@@ -1,0 +1,155 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+DocumentNamespace: https://cyclonedx/283425c0-b23a-447f-a612-a5d9ff6cb20b_1
+DocumentName: From-Cyclone-DX
+SPDXID: SPDXRef-DOCUMENT
+
+## Creation Information
+Creator: Tool: CycloneDX:cyclonedx-bom-3.11.0
+Creator: Tool: CycloneDX:cyclonedx-python-lib-3.1.1
+Creator: Tool: CycloneToSpdx-0.1.4
+Created: 2023-06-24T20:31:00Z
+CreatorComment: <text>Converted from CycloneDX spec version 1.4</text>
+LicenseListVersion: 3.21
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:extensions={}</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-DOCUMENT
+## Relationships
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-02489d16-0a3c-4aa4-9bab-f9f7ee6429b0
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-5aa7b47a-2f68-455e-a59d-588ea2fd3f3f
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-62778390-cbbf-4216-8f28-9de8f767912d
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-91bd79a5-6df2-47a0-bf38-c18ed2818645
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-de85dd52-b10b-41ad-871b-872b537acb46
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-e22d5b82-653c-4621-8b5d-0635424853e1
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-e9ae49e6-c43a-4083-9df5-c53fcbe4b806
+
+## Package Information
+PackageName: atlassian-python-api
+SPDXID: SPDXRef-de85dd52-b10b-41ad-871b-872b537acb46
+PackageVersion: 3.39.0
+PackageDownloadLocation: NOASSERTION
+PrimaryPackagePurpose: LIBRARY
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/atlassian-python-api@3.39.0
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-de85dd52-b10b-41ad-871b-872b537acb46
+FilesAnalyzed: false
+
+## Package Information
+PackageName: cogapp
+SPDXID: SPDXRef-91bd79a5-6df2-47a0-bf38-c18ed2818645
+PackageVersion: 3.3.0
+PackageDownloadLocation: NOASSERTION
+PrimaryPackagePurpose: LIBRARY
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/cogapp@3.3.0
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-91bd79a5-6df2-47a0-bf38-c18ed2818645
+FilesAnalyzed: false
+
+## Package Information
+PackageName: jmespath
+SPDXID: SPDXRef-02489d16-0a3c-4aa4-9bab-f9f7ee6429b0
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+PrimaryPackagePurpose: LIBRARY
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/jmespath@1.0.1
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-02489d16-0a3c-4aa4-9bab-f9f7ee6429b0
+FilesAnalyzed: false
+
+## Package Information
+PackageName: pydantic
+SPDXID: SPDXRef-62778390-cbbf-4216-8f28-9de8f767912d
+PackageVersion: 1.10.9
+PackageDownloadLocation: NOASSERTION
+PrimaryPackagePurpose: LIBRARY
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pydantic@1.10.9
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-62778390-cbbf-4216-8f28-9de8f767912d
+FilesAnalyzed: false
+
+## Package Information
+PackageName: requests-cache
+SPDXID: SPDXRef-5aa7b47a-2f68-455e-a59d-588ea2fd3f3f
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+PrimaryPackagePurpose: LIBRARY
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/requests-cache@1.0.1
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-5aa7b47a-2f68-455e-a59d-588ea2fd3f3f
+FilesAnalyzed: false
+
+## Package Information
+PackageName: scooby
+SPDXID: SPDXRef-e22d5b82-653c-4621-8b5d-0635424853e1
+PackageVersion: 0.7.2
+PackageDownloadLocation: NOASSERTION
+PrimaryPackagePurpose: LIBRARY
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/scooby@0.7.2
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-e22d5b82-653c-4621-8b5d-0635424853e1
+FilesAnalyzed: false
+
+## Package Information
+PackageName: typer
+SPDXID: SPDXRef-e9ae49e6-c43a-4083-9df5-c53fcbe4b806
+PackageVersion: 0.9.0
+PackageDownloadLocation: NOASSERTION
+PrimaryPackagePurpose: LIBRARY
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/typer@0.9.0
+## Annotations
+Annotator: Tool: CycloneToSpdx
+AnnotationDate: 2023-06-24T20:31:02Z
+AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
+AnnotationType: OTHER
+SPDXREF: SPDXRef-e9ae49e6-c43a-4083-9df5-c53fcbe4b806
+FilesAnalyzed: false
+
+
