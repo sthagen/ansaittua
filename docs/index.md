@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](third-party/
 [![wheel](https://img.shields.io/pypi/wheel/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/ansaittua.svg?style=flat)](https://git.sr.ht/~sthagen/ansaittua/log)
 
 ## Bug Tracker
 
