@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([5b540213 ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:5b540213b2a4ebc32d15137bb2e8e15ba18038faf325b9980799eb182e2b9760")).
-<!--[[[end]]] (checksum: 03892b69cbdbd8b76208617a8ecf0229)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([0386a0fc ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:0386a0fc98d72ddab8339095682b27ab6eccba2f6433c26c9de4759533371e74")).
+<!--[[[end]]] (checksum: a92f92d321631a477ab7610f327cc748)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -15,11 +15,11 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) | [3.39.0](https://pypi.org/project/atlassian-python-api/3.39.0/) | Apache Software License | Matt Harasymczuk                                                    | Python Atlassian REST API Wrapper                                       |
 | [cogapp](http://nedbatchelder.com/code/cog)                                   | [3.3.0](https://pypi.org/project/cogapp/3.3.0/)                 | MIT License             | Ned Batchelder                                                      | Cog: A content generator for executing Python snippets in source files. |
 | [jmespath](https://github.com/jmespath/jmespath.py)                           | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)               | MIT License             | James Saryerwinnie                                                  | JSON Matching Expressions                                               |
-| [pydantic](https://github.com/pydantic/pydantic)                              | [1.10.9](https://pypi.org/project/pydantic/1.10.9/)             | MIT License             | Samuel Colvin                                                       | Data validation and settings management using python type hints         |
-| [requests-cache](https://github.com/requests-cache/requests-cache)            | [1.0.1](https://pypi.org/project/requests-cache/1.0.1/)         | BSD License             | Roman Haritonov                                                     | A persistent cache for python requests                                  |
+| [pydantic](https://github.com/pydantic/pydantic)                              | [1.10.10](https://pypi.org/project/pydantic/1.10.10/)           | MIT License             | Samuel Colvin                                                       | Data validation and settings management using python type hints         |
+| [requests-cache](https://github.com/requests-cache/requests-cache)            | [1.1.0](https://pypi.org/project/requests-cache/1.1.0/)         | BSD License             | Roman Haritonov                                                     | A persistent cache for python requests                                  |
 | [scooby](https://github.com/banesullivan/scooby)                              | [0.7.2](https://pypi.org/project/scooby/0.7.2/)                 | MIT License             | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors | A Great Dane turned Python environment detective                        |
 | [typer](https://github.com/tiangolo/typer)                                    | [0.9.0](https://pypi.org/project/typer/0.9.0/)                  | MIT License             | Sebastián Ramírez                                                   | Typer, build great CLIs. Easy to code. Based on Python type hints.      |
-<!--[[[end]]] (checksum: 4e496d88154aa9a19bcd483da19d2e13)-->
+<!--[[[end]]] (checksum: 7aa3b60f857b89f8baca47868f5afed4)-->
 
 ### Indirect Dependencies
 
@@ -78,9 +78,9 @@ atlassian-python-api==3.39.0
 └── six [required: Any, installed: 1.16.0]
 cogapp==3.3.0
 jmespath==1.0.1
-pydantic==1.10.9
+pydantic==1.10.10
 └── typing-extensions [required: >=4.2.0, installed: 4.4.0]
-requests-cache==1.0.1
+requests-cache==1.1.0
 ├── attrs [required: >=21.2, installed: 23.1.0]
 ├── cattrs [required: >=22.2, installed: 23.1.2]
 │   ├── attrs [required: >=20, installed: 23.1.0]
@@ -100,4 +100,4 @@ typer==0.9.0
 ├── click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
 └── typing-extensions [required: >=3.7.4.3, installed: 4.4.0]
 ````
-<!--[[[end]]] (checksum: 36b8ec8fbeafe4004a3e2159450e2e8a)-->
+<!--[[[end]]] (checksum: 883dd3b663fd1b8f0da3a9644fb93905)-->
