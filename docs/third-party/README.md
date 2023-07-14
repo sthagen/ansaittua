@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([0386a0fc ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:0386a0fc98d72ddab8339095682b27ab6eccba2f6433c26c9de4759533371e74")).
-<!--[[[end]]] (checksum: a92f92d321631a477ab7610f327cc748)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([ba37dd1f ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:ba37dd1f863195699d3d5650ccff4239760a4b75e4fc02cda401750c7cd3c9c2")).
+<!--[[[end]]] (checksum: 38a3cb4bd41d3bd29d7068824de1845a)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -10,16 +10,16 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 ### Direct Dependencies
 
 <!--[[[fill direct_dependencies_table()]]]-->
-| Name                                                                          | Version                                                         | License                 | Author                                                              | Description (from packaging data)                                       |
-|:------------------------------------------------------------------------------|:----------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------|:------------------------------------------------------------------------|
-| [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) | [3.39.0](https://pypi.org/project/atlassian-python-api/3.39.0/) | Apache Software License | Matt Harasymczuk                                                    | Python Atlassian REST API Wrapper                                       |
-| [cogapp](http://nedbatchelder.com/code/cog)                                   | [3.3.0](https://pypi.org/project/cogapp/3.3.0/)                 | MIT License             | Ned Batchelder                                                      | Cog: A content generator for executing Python snippets in source files. |
-| [jmespath](https://github.com/jmespath/jmespath.py)                           | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)               | MIT License             | James Saryerwinnie                                                  | JSON Matching Expressions                                               |
-| [pydantic](https://github.com/pydantic/pydantic)                              | [1.10.10](https://pypi.org/project/pydantic/1.10.10/)           | MIT License             | Samuel Colvin                                                       | Data validation and settings management using python type hints         |
-| [requests-cache](https://github.com/requests-cache/requests-cache)            | [1.1.0](https://pypi.org/project/requests-cache/1.1.0/)         | BSD License             | Roman Haritonov                                                     | A persistent cache for python requests                                  |
-| [scooby](https://github.com/banesullivan/scooby)                              | [0.7.2](https://pypi.org/project/scooby/0.7.2/)                 | MIT License             | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors | A Great Dane turned Python environment detective                        |
-| [typer](https://github.com/tiangolo/typer)                                    | [0.9.0](https://pypi.org/project/typer/0.9.0/)                  | MIT License             | Sebastián Ramírez                                                   | Typer, build great CLIs. Easy to code. Based on Python type hints.      |
-<!--[[[end]]] (checksum: 7aa3b60f857b89f8baca47868f5afed4)-->
+| Name                                                                          | Version                                                         | License                 | Author                                                                                                                                                                                                                                                        | Description (from packaging data)                                       |
+|:------------------------------------------------------------------------------|:----------------------------------------------------------------|:------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|
+| [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) | [3.39.0](https://pypi.org/project/atlassian-python-api/3.39.0/) | Apache Software License | Matt Harasymczuk                                                                                                                                                                                                                                              | Python Atlassian REST API Wrapper                                       |
+| [cogapp](http://nedbatchelder.com/code/cog)                                   | [3.3.0](https://pypi.org/project/cogapp/3.3.0/)                 | MIT License             | Ned Batchelder                                                                                                                                                                                                                                                | Cog: A content generator for executing Python snippets in source files. |
+| [jmespath](https://github.com/jmespath/jmespath.py)                           | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)               | MIT License             | James Saryerwinnie                                                                                                                                                                                                                                            | JSON Matching Expressions                                               |
+| [pydantic](https://github.com/pydantic/pydantic)                              | [2.0.3](https://pypi.org/project/pydantic/2.0.3/)               | MIT License             | Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev> | Data validation using Python type hints                                 |
+| [requests-cache](https://github.com/requests-cache/requests-cache)            | [1.1.0](https://pypi.org/project/requests-cache/1.1.0/)         | BSD License             | Roman Haritonov                                                                                                                                                                                                                                               | A persistent cache for python requests                                  |
+| [scooby](https://github.com/banesullivan/scooby)                              | [0.7.2](https://pypi.org/project/scooby/0.7.2/)                 | MIT License             | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors                                                                                                                                                                                           | A Great Dane turned Python environment detective                        |
+| [typer](https://github.com/tiangolo/typer)                                    | [0.9.0](https://pypi.org/project/typer/0.9.0/)                  | MIT License             | Sebastián Ramírez                                                                                                                                                                                                                                             | Typer, build great CLIs. Easy to code. Based on Python type hints.      |
+<!--[[[end]]] (checksum: 4555827d1e9f6afd3e66d03f2618421f)-->
 
 ### Indirect Dependencies
 
@@ -39,11 +39,11 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib)                  | [1.3.1](https://pypi.org/project/requests-oauthlib/1.3.1/)  | BSD License                          | Kenneth Reitz                                                                         | OAuthlib authentication support for Requests.                                                           |
 | [requests](https://requests.readthedocs.io)                                         | [2.28.1](https://pypi.org/project/requests/2.28.1/)         | Apache Software License              | Kenneth Reitz                                                                         | Python HTTP for Humans.                                                                                 |
 | [six](https://github.com/benjaminp/six)                                             | [1.16.0](https://pypi.org/project/six/1.16.0/)              | MIT License                          | Benjamin Peterson                                                                     | Python 2 and 3 compatibility utilities                                                                  |
-| [typing_extensions](https://github.com/python/typing_extensions)                    | [4.4.0](https://pypi.org/project/typing_extensions/4.4.0/)  | Python Software Foundation License   | "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com> | Backported and Experimental Type Hints for Python 3.7+                                                  |
+| [typing_extensions](https://github.com/python/typing_extensions)                    | [4.7.1](https://pypi.org/project/typing_extensions/4.7.1/)  | Python Software Foundation License   | "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com> | Backported and Experimental Type Hints for Python 3.7+                                                  |
 | [url-normalize](https://github.com/niksite/url-normalize)                           | [1.4.3](https://pypi.org/project/url-normalize/1.4.3/)      | MIT License                          | Nikolay Panov                                                                         | URL normalization for Python                                                                            |
 | [urllib3](https://urllib3.readthedocs.io/)                                          | [1.26.13](https://pypi.org/project/urllib3/1.26.13/)        | MIT License                          | Andrey Petrov                                                                         | HTTP library with thread-safe connection pooling, file post, and more.                                  |
 | [wrapt](https://github.com/GrahamDumpleton/wrapt)                                   | [1.14.1](https://pypi.org/project/wrapt/1.14.1/)            | BSD License                          | Graham Dumpleton                                                                      | Module for decorators, wrappers and monkey patching.                                                    |
- <!--[[[end]]] (checksum: 4084f7907eb3b3920d290fb173d45de6)-->
+ <!--[[[end]]] (checksum: b8a2644598a3ce01d93115b4f0ed9213)-->
 
 ## Dependency Tree(s)
 
@@ -78,14 +78,17 @@ atlassian-python-api==3.39.0
 └── six [required: Any, installed: 1.16.0]
 cogapp==3.3.0
 jmespath==1.0.1
-pydantic==1.10.10
-└── typing-extensions [required: >=4.2.0, installed: 4.4.0]
+pydantic==2.0.3
+├── annotated-types [required: >=0.4.0, installed: 0.5.0]
+├── pydantic-core [required: ==2.3.0, installed: 2.3.0]
+│   └── typing-extensions [required: >=4.6.0,!=4.7.0, installed: 4.7.1]
+└── typing-extensions [required: >=4.6.1, installed: 4.7.1]
 requests-cache==1.1.0
 ├── attrs [required: >=21.2, installed: 23.1.0]
 ├── cattrs [required: >=22.2, installed: 23.1.2]
 │   ├── attrs [required: >=20, installed: 23.1.0]
 │   ├── exceptiongroup [required: Any, installed: 1.1.0]
-│   └── typing-extensions [required: >=4.1.0, installed: 4.4.0]
+│   └── typing-extensions [required: >=4.1.0, installed: 4.7.1]
 ├── platformdirs [required: >=2.5, installed: 2.6.0]
 ├── requests [required: >=2.22, installed: 2.28.1]
 │   ├── certifi [required: >=2017.4.17, installed: 2022.12.7]
@@ -98,6 +101,6 @@ requests-cache==1.1.0
 scooby==0.7.2
 typer==0.9.0
 ├── click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
-└── typing-extensions [required: >=3.7.4.3, installed: 4.4.0]
+└── typing-extensions [required: >=3.7.4.3, installed: 4.7.1]
 ````
-<!--[[[end]]] (checksum: 883dd3b663fd1b8f0da3a9644fb93905)-->
+<!--[[[end]]] (checksum: 19b1c5630770fa79e051f8deb634140f)-->
