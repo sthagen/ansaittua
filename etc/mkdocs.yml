@@ -1,5 +1,7 @@
 site_name: Ansaittua
 site_description: "Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
