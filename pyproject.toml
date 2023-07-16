@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ansaittua"
 version = "2022.7.30"
-description = ""
+description = "Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly."
 readme = "README.md"
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 maintainers = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
