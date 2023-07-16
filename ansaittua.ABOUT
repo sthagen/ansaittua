@@ -1,0 +1,14 @@
+name: ansaittua
+description: Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly.
+license_spdx: MIT
+version: 2022.7.30
+spec_version: 1.0
+home_url: https://git.sr.ht/~sthagen/ansaittua
+news_url: https://libraries.io/pypi/ansaittua/versions.atom
+date: 2022-07-30
+about_resource: ./
+libraries_io_url: https://libraries.io/pypi/ansaittua?number=2022.7.30
+vcs_tool: git
+vcs_repository: https://git.sr.ht/~sthagen/ansaittua
+vcs_branch: default
+
