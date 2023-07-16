@@ -50,11 +50,11 @@ all: lint types testcov
 .PHONY: sbom
 sbom:
 	@bin/gen-sbom
-	@cog -I. -P -c -r --check --markers="[[fill ]]] [[[end]]]" -p "from gen_sbom import *;from gen_licenses import *" docs/third-party/README.md
+	@cog -I. -P -c -r --check --markers="[[fill ]]] [[[end]]]" -p "from bin.gen_sbom import *;from bin.gen_licenses import *" docs/third-party/README.md
 
 .PHONY: version
 version:
-	@cog -I. -P -c -r --check --markers="[[fill ]]] [[[end]]]" -p "from gen_version import *" $(package)/__init__.py
+	@cog -I. -P -c -r --check --markers="[[fill ]]] [[[end]]]" -p "from bin.gen_version import *" $(package)/__init__.py
 
 .PHONY: secure
 secure:
