@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([ba37dd1f ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:ba37dd1f863195699d3d5650ccff4239760a4b75e4fc02cda401750c7cd3c9c2")).
-<!--[[[end]]] (checksum: 38a3cb4bd41d3bd29d7068824de1845a)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([99e7becc ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:99e7becc0a8501b8901d3718e8109b805d3ff8dab6115452854b9b7472d57463")).
+<!--[[[end]]] (checksum: f320882b524d5ab5433c06acac6f5564)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -26,24 +26,23 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 <!--[[[fill indirect_dependencies_table()]]]-->
 | Name                                                                                | Version                                                     | License                              | Author                                                                                | Description (from packaging data)                                                                       |
 |:------------------------------------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
-| [Deprecated](https://github.com/tantale/deprecated)                                 | [1.2.13](https://pypi.org/project/Deprecated/1.2.13/)       | MIT License                          | Laurent LAPORTE                                                                       | Python @deprecated decorator to deprecate old python classes, functions or methods.                     |
-| [appdirs](http://github.com/ActiveState/appdirs)                                    | [1.4.4](https://pypi.org/project/appdirs/1.4.4/)            | MIT License                          | Trent Mick                                                                            | A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".       |
+| [Deprecated](https://github.com/tantale/deprecated)                                 | [1.2.14](https://pypi.org/project/Deprecated/1.2.14/)       | MIT License                          | Laurent LAPORTE                                                                       | Python @deprecated decorator to deprecate old python classes, functions or methods.                     |
 | [attrs](https://www.attrs.org/en/stable/changelog.html)                             | [23.1.0](https://pypi.org/project/attrs/23.1.0/)            | MIT License                          | Hynek Schlawack <hs@ox.cx>                                                            | Classes Without Boilerplate                                                                             |
 | [cattrs](https://github.com/python-attrs/cattrs)                                    | [23.1.2](https://pypi.org/project/cattrs/23.1.2/)           | MIT License                          | Tin Tvrtkovic                                                                         | Composable complex class support for attrs and dataclasses.                                             |
-| [certifi](https://github.com/certifi/python-certifi)                                | [2022.12.7](https://pypi.org/project/certifi/2022.12.7/)    | Mozilla Public License 2.0 (MPL 2.0) | Kenneth Reitz                                                                         | Python package for providing Mozilla's CA Bundle.                                                       |
-| [charset-normalizer](https://github.com/ousret/charset_normalizer)                  | [2.1.1](https://pypi.org/project/charset-normalizer/2.1.1/) | MIT License                          | Ahmed TAHRI @Ousret                                                                   | The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet. |
-| [click](https://palletsprojects.com/p/click/)                                       | [8.1.3](https://pypi.org/project/click/8.1.3/)              | BSD License                          | Armin Ronacher                                                                        | Composable command line interface toolkit                                                               |
-| [exceptiongroup](https://github.com/agronholm/exceptiongroup/blob/main/CHANGES.rst) | [1.1.0](https://pypi.org/project/exceptiongroup/1.1.0/)     | MIT License                          | Alex Grönholm <alex.gronholm@nextday.fi>                                              | Backport of PEP 654 (exception groups)                                                                  |
+| [certifi](https://github.com/certifi/python-certifi)                                | [2023.5.7](https://pypi.org/project/certifi/2023.5.7/)      | Mozilla Public License 2.0 (MPL 2.0) | Kenneth Reitz                                                                         | Python package for providing Mozilla's CA Bundle.                                                       |
+| [charset-normalizer](https://github.com/Ousret/charset_normalizer)                  | [3.2.0](https://pypi.org/project/charset-normalizer/3.2.0/) | MIT License                          | Ahmed TAHRI                                                                           | The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet. |
+| [click](https://palletsprojects.com/p/click/)                                       | [8.1.5](https://pypi.org/project/click/8.1.5/)              | BSD License                          | UNKNOWN                                                                               | Composable command line interface toolkit                                                               |
+| [exceptiongroup](https://github.com/agronholm/exceptiongroup/blob/main/CHANGES.rst) | [1.1.2](https://pypi.org/project/exceptiongroup/1.1.2/)     | MIT License                          | Alex Grönholm <alex.gronholm@nextday.fi>                                              | Backport of PEP 654 (exception groups)                                                                  |
 | [idna](https://github.com/kjd/idna)                                                 | [3.4](https://pypi.org/project/idna/3.4/)                   | BSD License                          | Kim Davies <kim@cynosure.com.au>                                                      | Internationalized Domain Names in Applications (IDNA)                                                   |
 | [oauthlib](https://github.com/oauthlib/oauthlib)                                    | [3.2.2](https://pypi.org/project/oauthlib/3.2.2/)           | BSD License                          | The OAuthlib Community                                                                | A generic, spec-compliant, thorough implementation of the OAuth request-signing logic                   |
 | [requests-oauthlib](https://github.com/requests/requests-oauthlib)                  | [1.3.1](https://pypi.org/project/requests-oauthlib/1.3.1/)  | BSD License                          | Kenneth Reitz                                                                         | OAuthlib authentication support for Requests.                                                           |
-| [requests](https://requests.readthedocs.io)                                         | [2.28.1](https://pypi.org/project/requests/2.28.1/)         | Apache Software License              | Kenneth Reitz                                                                         | Python HTTP for Humans.                                                                                 |
+| [requests](https://requests.readthedocs.io)                                         | [2.31.0](https://pypi.org/project/requests/2.31.0/)         | Apache Software License              | Kenneth Reitz                                                                         | Python HTTP for Humans.                                                                                 |
 | [six](https://github.com/benjaminp/six)                                             | [1.16.0](https://pypi.org/project/six/1.16.0/)              | MIT License                          | Benjamin Peterson                                                                     | Python 2 and 3 compatibility utilities                                                                  |
 | [typing_extensions](https://github.com/python/typing_extensions)                    | [4.7.1](https://pypi.org/project/typing_extensions/4.7.1/)  | Python Software Foundation License   | "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com> | Backported and Experimental Type Hints for Python 3.7+                                                  |
 | [url-normalize](https://github.com/niksite/url-normalize)                           | [1.4.3](https://pypi.org/project/url-normalize/1.4.3/)      | MIT License                          | Nikolay Panov                                                                         | URL normalization for Python                                                                            |
-| [urllib3](https://urllib3.readthedocs.io/)                                          | [1.26.13](https://pypi.org/project/urllib3/1.26.13/)        | MIT License                          | Andrey Petrov                                                                         | HTTP library with thread-safe connection pooling, file post, and more.                                  |
-| [wrapt](https://github.com/GrahamDumpleton/wrapt)                                   | [1.14.1](https://pypi.org/project/wrapt/1.14.1/)            | BSD License                          | Graham Dumpleton                                                                      | Module for decorators, wrappers and monkey patching.                                                    |
- <!--[[[end]]] (checksum: b8a2644598a3ce01d93115b4f0ed9213)-->
+| [urllib3](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)                 | [2.0.3](https://pypi.org/project/urllib3/2.0.3/)            | MIT License                          | Andrey Petrov <andrey.petrov@shazow.net>                                              | HTTP library with thread-safe connection pooling, file post, and more.                                  |
+| [wrapt](https://github.com/GrahamDumpleton/wrapt)                                   | [1.15.0](https://pypi.org/project/wrapt/1.15.0/)            | BSD License                          | Graham Dumpleton                                                                      | Module for decorators, wrappers and monkey patching.                                                    |
+ <!--[[[end]]] (checksum: 22c1faf7903e26ddd5b086ae5ef575ba)-->
 
 ## Dependency Tree(s)
 
@@ -60,21 +59,21 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 <!--[[[fill dependency_tree_console_text()]]]-->
 ````console
 atlassian-python-api==3.39.0
-├── Deprecated [required: Any, installed: 1.2.13]
-│   └── wrapt [required: >=1.10,<2, installed: 1.14.1]
+├── Deprecated [required: Any, installed: 1.2.14]
+│   └── wrapt [required: >=1.10,<2, installed: 1.15.0]
 ├── oauthlib [required: Any, installed: 3.2.2]
-├── requests [required: Any, installed: 2.28.1]
-│   ├── certifi [required: >=2017.4.17, installed: 2022.12.7]
-│   ├── charset-normalizer [required: >=2,<3, installed: 2.1.1]
+├── requests [required: Any, installed: 2.31.0]
+│   ├── certifi [required: >=2017.4.17, installed: 2023.5.7]
+│   ├── charset-normalizer [required: >=2,<4, installed: 3.2.0]
 │   ├── idna [required: >=2.5,<4, installed: 3.4]
-│   └── urllib3 [required: >=1.21.1,<1.27, installed: 1.26.13]
+│   └── urllib3 [required: >=1.21.1,<3, installed: 2.0.3]
 ├── requests-oauthlib [required: Any, installed: 1.3.1]
 │   ├── oauthlib [required: >=3.0.0, installed: 3.2.2]
-│   └── requests [required: >=2.0.0, installed: 2.28.1]
-│       ├── certifi [required: >=2017.4.17, installed: 2022.12.7]
-│       ├── charset-normalizer [required: >=2,<3, installed: 2.1.1]
+│   └── requests [required: >=2.0.0, installed: 2.31.0]
+│       ├── certifi [required: >=2017.4.17, installed: 2023.5.7]
+│       ├── charset-normalizer [required: >=2,<4, installed: 3.2.0]
 │       ├── idna [required: >=2.5,<4, installed: 3.4]
-│       └── urllib3 [required: >=1.21.1,<1.27, installed: 1.26.13]
+│       └── urllib3 [required: >=1.21.1,<3, installed: 2.0.3]
 └── six [required: Any, installed: 1.16.0]
 cogapp==3.3.0
 jmespath==1.0.1
@@ -87,20 +86,20 @@ requests-cache==1.1.0
 ├── attrs [required: >=21.2, installed: 23.1.0]
 ├── cattrs [required: >=22.2, installed: 23.1.2]
 │   ├── attrs [required: >=20, installed: 23.1.0]
-│   ├── exceptiongroup [required: Any, installed: 1.1.0]
+│   ├── exceptiongroup [required: Any, installed: 1.1.2]
 │   └── typing-extensions [required: >=4.1.0, installed: 4.7.1]
-├── platformdirs [required: >=2.5, installed: 2.6.0]
-├── requests [required: >=2.22, installed: 2.28.1]
-│   ├── certifi [required: >=2017.4.17, installed: 2022.12.7]
-│   ├── charset-normalizer [required: >=2,<3, installed: 2.1.1]
+├── platformdirs [required: >=2.5, installed: 3.9.1]
+├── requests [required: >=2.22, installed: 2.31.0]
+│   ├── certifi [required: >=2017.4.17, installed: 2023.5.7]
+│   ├── charset-normalizer [required: >=2,<4, installed: 3.2.0]
 │   ├── idna [required: >=2.5,<4, installed: 3.4]
-│   └── urllib3 [required: >=1.21.1,<1.27, installed: 1.26.13]
+│   └── urllib3 [required: >=1.21.1,<3, installed: 2.0.3]
 ├── url-normalize [required: >=1.4, installed: 1.4.3]
 │   └── six [required: Any, installed: 1.16.0]
-└── urllib3 [required: >=1.25.5, installed: 1.26.13]
+└── urllib3 [required: >=1.25.5, installed: 2.0.3]
 scooby==0.7.2
 typer==0.9.0
-├── click [required: >=7.1.1,<9.0.0, installed: 8.1.3]
+├── click [required: >=7.1.1,<9.0.0, installed: 8.1.5]
 └── typing-extensions [required: >=3.7.4.3, installed: 4.7.1]
 ````
-<!--[[[end]]] (checksum: 19b1c5630770fa79e051f8deb634140f)-->
+<!--[[[end]]] (checksum: 93f885d6c7c132fbbebf5063ec4646a6)-->
