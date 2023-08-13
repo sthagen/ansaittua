@@ -2,8 +2,8 @@
     {
         "key": "atlassian-python-api",
         "package_name": "atlassian-python-api",
-        "installed_version": "3.39.0",
-        "required_version": "3.39.0",
+        "installed_version": "3.40.1",
+        "required_version": "3.40.1",
         "dependencies": [
             {
                 "key": "deprecated",
@@ -140,8 +140,8 @@
     {
         "key": "pydantic",
         "package_name": "pydantic",
-        "installed_version": "2.0.3",
-        "required_version": "2.0.3",
+        "installed_version": "2.1.1",
+        "required_version": "2.1.1",
         "dependencies": [
             {
                 "key": "annotated-types",
@@ -153,8 +153,8 @@
             {
                 "key": "pydantic-core",
                 "package_name": "pydantic-core",
-                "installed_version": "2.3.0",
-                "required_version": "==2.3.0",
+                "installed_version": "2.4.0",
+                "required_version": "==2.4.0",
                 "dependencies": [
                     {
                         "key": "typing-extensions",
