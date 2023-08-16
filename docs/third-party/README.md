@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([d12f5c58 ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:d12f5c58d9a3c635acade7e6743d76a7495ac40f3d6cd6599966023826e7860b")).
-<!--[[[end]]] (checksum: 3818323224a2613b53e92fec453dc45b)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json) with SHA256 checksum ([bb3130ab ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/sbom/cdx.json.sha256 "sha256:bb3130ab236c4b8c70c42db0c037c78c4077b17d4eaf566682ec40db4109783b")).
+<!--[[[end]]] (checksum: c788eb4c4dfa59fd0c9b98e9b3841c84)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
