@@ -5,7 +5,7 @@ digraph {
 	"atlassian-python-api" -> oauthlib [label=any]
 	"atlassian-python-api" -> requests [label=any]
 	"atlassian-python-api" -> six [label=any]
-	"atlassian-python-api" [label="atlassian-python-api\n3.40.1"]
+	"atlassian-python-api" [label="atlassian-python-api\n3.41.0"]
 	"charset-normalizer" [label="charset-normalizer\n3.2.0"]
 	"pydantic-core" -> "typing-extensions" [label=">=4.6.0,!=4.7.0"]
 	"pydantic-core" [label="pydantic-core\n2.4.0"]
