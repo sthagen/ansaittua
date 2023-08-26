@@ -7,7 +7,7 @@ Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly.
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
-[![downloads](https://pepy.tech/badge/ansaittua/month)](https://pepy.tech/project/ansaittua)
+[![downloads](https://static.pepy.tech/badge/ansaittua/month)](https://pepy.tech/project/ansaittua)
 [![wheel](https://img.shields.io/pypi/wheel/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
