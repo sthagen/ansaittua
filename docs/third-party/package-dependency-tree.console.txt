@@ -17,7 +17,7 @@ atlassian-python-api==3.41.2
 └── six [required: Any, installed: 1.16.0]
 cogapp==3.3.0
 jmespath==1.0.1
-pydantic==2.4.1
+pydantic==2.4.2
 ├── annotated-types [required: >=0.4.0, installed: 0.5.0]
 ├── pydantic-core [required: ==2.10.1, installed: 2.10.1]
 │   └── typing-extensions [required: >=4.6.0,!=4.7.0, installed: 4.7.1]
@@ -37,7 +37,7 @@ requests-cache==1.1.0
 ├── url-normalize [required: >=1.4, installed: 1.4.3]
 │   └── six [required: Any, installed: 1.16.0]
 └── urllib3 [required: >=1.25.5, installed: 2.0.3]
-scooby==0.7.3
+scooby==0.7.4
 typer==0.9.0
 ├── click [required: >=7.1.1,<9.0.0, installed: 8.1.5]
 └── typing-extensions [required: >=3.7.4.3, installed: 4.7.1]
