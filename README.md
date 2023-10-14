@@ -3,6 +3,7 @@
 Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly.
 
 [License: MIT](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/LICENSE)
+[Country of origin: Switzerland](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/COUNTRY-OF-ORIGIN) 
 
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
