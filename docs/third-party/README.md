@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([9cdede0b ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json.sha256 "sha256:9cdede0b6b95a16ff386e146e9334eb3759c49a0566d35fba033925f924780eb")).
-<!--[[[end]]] (checksum: 2d13ed5ba1c226b06834795906fafb41)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([01ef2593 ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json.sha256 "sha256:01ef2593264d6b398b0b22520cd4c492654f1a013e4dbfd50f5412b302fa380a")).
+<!--[[[end]]] (checksum: ac1ddb0c924209b70125fe0cbaf2ebcb)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -17,9 +17,9 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [jmespath](https://github.com/jmespath/jmespath.py)                           | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)               | MIT License             | James Saryerwinnie                                                                                                                                                                                                                                            | JSON Matching Expressions                                               |
 | [pydantic](https://github.com/pydantic/pydantic)                              | [2.4.2](https://pypi.org/project/pydantic/2.4.2/)               | MIT License             | Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev> | Data validation using Python type hints                                 |
 | [requests-cache](https://github.com/requests-cache/requests-cache)            | [1.1.0](https://pypi.org/project/requests-cache/1.1.0/)         | BSD License             | Roman Haritonov                                                                                                                                                                                                                                               | A persistent cache for python requests                                  |
-| [scooby](https://github.com/banesullivan/scooby)                              | [0.8.0](https://pypi.org/project/scooby/0.8.0/)                 | MIT License             | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors                                                                                                                                                                                           | A Great Dane turned Python environment detective                        |
+| [scooby](https://github.com/banesullivan/scooby)                              | [0.9.2](https://pypi.org/project/scooby/0.9.2/)                 | MIT License             | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors                                                                                                                                                                                           | A Great Dane turned Python environment detective                        |
 | [typer](https://github.com/tiangolo/typer)                                    | [0.9.0](https://pypi.org/project/typer/0.9.0/)                  | MIT License             | Sebastián Ramírez                                                                                                                                                                                                                                             | Typer, build great CLIs. Easy to code. Based on Python type hints.      |
-<!--[[[end]]] (checksum: df6aab1a9dd23e9312650381b080e783)-->
+<!--[[[end]]] (checksum: fb2caa82634d2dddd9285b838c9a9368)-->
 
 ### Indirect Dependencies
 
@@ -97,9 +97,9 @@ requests-cache==1.1.0
 ├── url-normalize [required: >=1.4, installed: 1.4.3]
 │   └── six [required: Any, installed: 1.16.0]
 └── urllib3 [required: >=1.25.5, installed: 2.0.3]
-scooby==0.8.0
+scooby==0.9.2
 typer==0.9.0
 ├── click [required: >=7.1.1,<9.0.0, installed: 8.1.5]
 └── typing-extensions [required: >=3.7.4.3, installed: 4.7.1]
 ````
-<!--[[[end]]] (checksum: 717c4b66f57f32d4064c9a1a2e0586a7)-->
+<!--[[[end]]] (checksum: dbe21ad530a85eda7d833f1fbd1cac19)-->
