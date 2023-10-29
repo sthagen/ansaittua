@@ -2,15 +2,15 @@
 
 Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly.
 
-[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/ansaittuaNAME/tree/default/item/LICENSE)
-[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/ansaittuaNAME/tree/default/item/COUNTRY-OF-ORIGIN)
-[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/ansaittuaNAME/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/LICENSE)
+[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-[![Version](https://img.shields.io/pypi/v/ansaittuaNAME.svg?style=flat)](https://pypi.python.org/pypi/ansaittuaNAME/)
-[![Downloads](https://static.pepy.tech/badge/ansaittuaNAME/month)](https://pepy.tech/project/ansaittuaNAME)
-[![Supported Versions](https://img.shields.io/pypi/pyversions/ansaittuaNAME.svg?style=flat)](https://pypi.python.org/pypi/ansaittuaNAME/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/ansaittuaNAME.svg?style=flat)](https://git.sr.ht/~sthagen/ansaittuaNAME/log)
+[![Version](https://img.shields.io/pypi/v/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
+[![Downloads](https://static.pepy.tech/badge/ansaittua/month)](https://pepy.tech/project/ansaittua)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/ansaittua.svg?style=flat)](https://git.sr.ht/~sthagen/ansaittua/log)
 
 ## Bug Tracker
 
