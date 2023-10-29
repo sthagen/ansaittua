@@ -2,19 +2,15 @@
 
 Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly.
 
-[License: MIT](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/LICENSE) | 
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/COUNTRY-OF-ORIGIN) | 
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![License](docs/badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/LICENSE)
+[![Country of Origin](docs/badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/ansaittua/tree/default/item/docs/third-party/README.md)
 
-
-Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
-[![downloads](https://static.pepy.tech/badge/ansaittua/month)](https://pepy.tech/project/ansaittua)
-[![wheel](https://img.shields.io/pypi/wheel/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/ansaittua.svg?style=flat)](https://git.sr.ht/~sthagen/ansaittua/log)
+[![Version](https://img.shields.io/pypi/v/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
+[![Downloads](https://static.pepy.tech/badge/ansaittua/month)](https://pepy.tech/project/ansaittua)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/ansaittua.svg?style=flat)](https://git.sr.ht/~sthagen/ansaittua/log)
 
 ## Documentation
 
