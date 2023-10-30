@@ -8,7 +8,7 @@ Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly.
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
 [![Version](https://img.shields.io/pypi/v/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
-[![Downloads](https://static.pepy.tech/badge/ansaittua/month)](https://pepy.tech/project/ansaittua)
+[![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/ansaittua)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/ansaittua.svg?style=flat)](https://pypi.python.org/pypi/ansaittua/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/ansaittua/log)
 
