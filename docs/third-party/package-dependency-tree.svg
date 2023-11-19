@@ -46,29 +46,29 @@
 <!-- six -->
 <g id="node4" class="node">
 <title>six</title>
-<ellipse fill="none" stroke="black" cx="950.8" cy="-28.99" rx="35.71" ry="28.99"/>
-<text text-anchor="middle" x="950.8" y="-32.19" font-family="Times,serif" font-size="14.00">six</text>
-<text text-anchor="middle" x="950.8" y="-15.69" font-family="Times,serif" font-size="14.00">1.16.0</text>
+<ellipse fill="none" stroke="black" cx="959.8" cy="-28.99" rx="35.71" ry="28.99"/>
+<text text-anchor="middle" x="959.8" y="-32.19" font-family="Times,serif" font-size="14.00">six</text>
+<text text-anchor="middle" x="959.8" y="-15.69" font-family="Times,serif" font-size="14.00">1.16.0</text>
 </g>
 <!-- atlassian&#45;python&#45;api&#45;&gt;six -->
 <g id="edge3" class="edge">
 <title>atlassian&#45;python&#45;api&#45;&gt;six</title>
-<path fill="none" stroke="black" d="M325.13,-340.03C336.3,-336.95 347.85,-333.96 358.8,-331.45 633.14,-268.45 808.35,-398.33 970.8,-168.47 991.78,-138.79 981.4,-96.5 969.16,-66.48"/>
-<polygon fill="black" stroke="black" points="972.41,-65.18 965.22,-57.4 965.99,-67.97 972.41,-65.18"/>
+<path fill="none" stroke="black" d="M325.13,-340.03C336.3,-336.95 347.85,-333.96 358.8,-331.45 633.14,-268.45 808.35,-398.33 970.8,-168.47 991.35,-139.39 984.54,-97.79 975.09,-67.79"/>
+<polygon fill="black" stroke="black" points="978.41,-66.68 971.88,-58.34 971.78,-68.94 978.41,-66.68"/>
 <text text-anchor="middle" x="964.55" y="-189.67" font-family="Times,serif" font-size="14.00">any</text>
 </g>
 <!-- oauthlib -->
 <g id="node5" class="node">
 <title>oauthlib</title>
-<ellipse fill="none" stroke="black" cx="183.8" cy="-139.47" rx="42.6" ry="28.99"/>
-<text text-anchor="middle" x="183.8" y="-142.67" font-family="Times,serif" font-size="14.00">oauthlib</text>
-<text text-anchor="middle" x="183.8" y="-126.17" font-family="Times,serif" font-size="14.00">3.2.2</text>
+<ellipse fill="none" stroke="black" cx="174.8" cy="-139.47" rx="42.6" ry="28.99"/>
+<text text-anchor="middle" x="174.8" y="-142.67" font-family="Times,serif" font-size="14.00">oauthlib</text>
+<text text-anchor="middle" x="174.8" y="-126.17" font-family="Times,serif" font-size="14.00">3.2.2</text>
 </g>
 <!-- atlassian&#45;python&#45;api&#45;&gt;oauthlib -->
 <g id="edge4" class="edge">
 <title>atlassian&#45;python&#45;api&#45;&gt;oauthlib</title>
-<path fill="none" stroke="black" d="M212.39,-335.73C190.71,-322.32 167.36,-303.31 155.3,-278.95 139.35,-246.72 150.99,-206.03 163.87,-177.11"/>
-<polygon fill="black" stroke="black" points="166.88,-178.94 167.97,-168.4 160.54,-175.95 166.88,-178.94"/>
+<path fill="none" stroke="black" d="M212.39,-335.73C190.71,-322.32 167.36,-303.31 155.3,-278.95 139.64,-247.31 148.07,-206.93 158.26,-177.95"/>
+<polygon fill="black" stroke="black" points="161.44,-179.45 161.68,-168.86 154.89,-176.99 161.44,-179.45"/>
 <text text-anchor="middle" x="165.55" y="-244.91" font-family="Times,serif" font-size="14.00">any</text>
 </g>
 <!-- requests&#45;oauthlib -->
@@ -151,8 +151,8 @@
 <!-- requests&#45;&gt;certifi -->
 <g id="edge11" class="edge">
 <title>requests&#45;&gt;certifi</title>
-<path fill="none" stroke="black" d="M266.9,-122.52C256.97,-118.29 246.06,-113.95 235.8,-110.48 205.27,-100.16 195.38,-104.68 165.55,-92.48 142.09,-82.89 117.53,-68.98 97.79,-56.72"/>
-<polygon fill="black" stroke="black" points="99.83,-53.87 89.51,-51.49 96.09,-59.79 99.83,-53.87"/>
+<path fill="none" stroke="black" d="M265.37,-124.28C253.17,-119.69 239.46,-114.7 226.8,-110.48 199.88,-101.52 191.62,-103.68 165.55,-92.48 142.43,-82.55 118.07,-68.74 98.38,-56.63"/>
+<polygon fill="black" stroke="black" points="100.44,-53.79 90.1,-51.46 96.73,-59.73 100.44,-53.79"/>
 <text text-anchor="middle" x="201.43" y="-79.18" font-family="Times,serif" font-size="14.00">&gt;=2017.4.17</text>
 </g>
 <!-- requests&#45;oauthlib&#45;&gt;requests -->
@@ -165,9 +165,9 @@
 <!-- requests&#45;oauthlib&#45;&gt;oauthlib -->
 <g id="edge6" class="edge">
 <title>requests&#45;oauthlib&#45;&gt;oauthlib</title>
-<path fill="none" stroke="black" d="M241.37,-221.58C231.34,-207.44 218.99,-190.05 208.3,-175"/>
-<polygon fill="black" stroke="black" points="211.42,-173.34 202.78,-167.21 205.71,-177.39 211.42,-173.34"/>
-<text text-anchor="middle" x="248.93" y="-189.67" font-family="Times,serif" font-size="14.00">&gt;=3.0.0</text>
+<path fill="none" stroke="black" d="M239.32,-221.86C227.84,-207.38 213.61,-189.43 201.43,-174.07"/>
+<polygon fill="black" stroke="black" points="204.43,-172.22 195.48,-166.55 198.95,-176.57 204.43,-172.22"/>
+<text text-anchor="middle" x="245.93" y="-189.67" font-family="Times,serif" font-size="14.00">&gt;=3.0.0</text>
 </g>
 <!-- cogapp -->
 <g id="node12" class="node">
@@ -244,7 +244,7 @@
 <title>requests&#45;cache</title>
 <ellipse fill="none" stroke="black" cx="581.8" cy="-249.96" rx="67.53" ry="28.99"/>
 <text text-anchor="middle" x="581.8" y="-253.16" font-family="Times,serif" font-size="14.00">requests&#45;cache</text>
-<text text-anchor="middle" x="581.8" y="-236.66" font-family="Times,serif" font-size="14.00">1.1.0</text>
+<text text-anchor="middle" x="581.8" y="-236.66" font-family="Times,serif" font-size="14.00">1.1.1</text>
 </g>
 <!-- requests&#45;cache&#45;&gt;requests -->
 <g id="edge20" class="edge">
@@ -279,7 +279,7 @@
 <title>cattrs</title>
 <ellipse fill="none" stroke="black" cx="643.8" cy="-139.47" rx="35.71" ry="28.99"/>
 <text text-anchor="middle" x="643.8" y="-142.67" font-family="Times,serif" font-size="14.00">cattrs</text>
-<text text-anchor="middle" x="643.8" y="-126.17" font-family="Times,serif" font-size="14.00">23.1.2</text>
+<text text-anchor="middle" x="643.8" y="-126.17" font-family="Times,serif" font-size="14.00">23.2.1</text>
 </g>
 <!-- requests&#45;cache&#45;&gt;cattrs -->
 <g id="edge18" class="edge">
@@ -319,16 +319,16 @@
 <!-- cattrs&#45;&gt;typing&#45;extensions -->
 <g id="edge26" class="edge">
 <title>cattrs&#45;&gt;typing&#45;extensions</title>
-<path fill="none" stroke="black" d="M670.78,-120.13C676.57,-116.64 682.77,-113.22 688.8,-110.48 736.51,-88.79 750.14,-86.12 801.55,-75.98 886.62,-59.21 909.49,-66.18 995.8,-57.98 1063.2,-51.58 1139.45,-44.17 1196.55,-38.57"/>
-<polygon fill="black" stroke="black" points="1196.59,-42.09 1206.2,-37.63 1195.91,-35.12 1196.59,-42.09"/>
-<text text-anchor="middle" x="822.93" y="-79.18" font-family="Times,serif" font-size="14.00">&gt;=4.1.0</text>
+<path fill="none" stroke="black" d="M670.84,-120.3C694.97,-105.21 731.87,-84.84 767.3,-75.98 870,-50.32 899.35,-67.27 1004.8,-57.98 1069.22,-52.31 1141.92,-44.99 1196.95,-39.25"/>
+<polygon fill="black" stroke="black" points="1196.97,-42.77 1206.56,-38.25 1196.25,-35.81 1196.97,-42.77"/>
+<text text-anchor="middle" x="811.05" y="-79.18" font-family="Times,serif" font-size="14.00">&gt;=4.1.0,!=4.6.3</text>
 </g>
 <!-- cattrs&#45;&gt;attrs -->
 <g id="edge24" class="edge">
 <title>cattrs&#45;&gt;attrs</title>
-<path fill="none" stroke="black" d="M623.64,-115.2C610.13,-99.62 592.18,-78.9 577.36,-61.79"/>
-<polygon fill="black" stroke="black" points="580.12,-59.63 570.92,-54.37 574.83,-64.22 580.12,-59.63"/>
-<text text-anchor="middle" x="616.8" y="-79.18" font-family="Times,serif" font-size="14.00">&gt;=20</text>
+<path fill="none" stroke="black" d="M622.65,-115.74C615.92,-108.38 608.48,-100.14 601.8,-92.48 593.35,-82.79 584.33,-72.08 576.21,-62.31"/>
+<polygon fill="black" stroke="black" points="579.09,-60.29 570.02,-54.82 573.69,-64.75 579.09,-60.29"/>
+<text text-anchor="middle" x="627.3" y="-79.18" font-family="Times,serif" font-size="14.00">&gt;=23.1.0</text>
 </g>
 <!-- exceptiongroup -->
 <g id="node23" class="node">
@@ -342,14 +342,14 @@
 <title>cattrs&#45;&gt;exceptiongroup</title>
 <path fill="none" stroke="black" d="M651.45,-110.82C654.98,-98.04 659.24,-82.64 663.09,-68.73"/>
 <polygon fill="black" stroke="black" points="666.37,-70 665.66,-59.43 659.62,-68.14 666.37,-70"/>
-<text text-anchor="middle" x="669.55" y="-79.18" font-family="Times,serif" font-size="14.00">any</text>
+<text text-anchor="middle" x="681.93" y="-79.18" font-family="Times,serif" font-size="14.00">&gt;=1.1.1</text>
 </g>
 <!-- url&#45;normalize&#45;&gt;six -->
 <g id="edge23" class="edge">
 <title>url&#45;normalize&#45;&gt;six</title>
-<path fill="none" stroke="black" d="M803.77,-117.33C818.45,-109.72 834.97,-100.93 849.8,-92.48 871.21,-80.28 894.65,-65.85 913.55,-53.94"/>
-<polygon fill="black" stroke="black" points="915.41,-56.9 921.98,-48.59 911.66,-50.99 915.41,-56.9"/>
-<text text-anchor="middle" x="884.55" y="-79.18" font-family="Times,serif" font-size="14.00">any</text>
+<path fill="none" stroke="black" d="M806.76,-118.75C823.62,-110.99 842.8,-101.74 859.8,-92.48 881.29,-80.78 904.51,-66.38 923.16,-54.36"/>
+<polygon fill="black" stroke="black" points="924.99,-57.34 931.47,-48.96 921.18,-51.48 924.99,-57.34"/>
+<text text-anchor="middle" x="897.55" y="-79.18" font-family="Times,serif" font-size="14.00">any</text>
 </g>
 <!-- scooby -->
 <g id="node24" class="node">
