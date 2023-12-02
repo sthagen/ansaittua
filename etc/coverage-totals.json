@@ -1,7 +1,7 @@
 {
   "ansaittua": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:13:26.392592",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:49:41 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 19,
@@ -13,6 +13,22 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "ansaittua/__init__.py",
+      "ansaittua/ansaittua.py",
+      "ansaittua/cli.py"
+    ],
+    "blake3": "d834d6b00b585c724a607f8b2699541a09282d952f55c0688b6a4642fe14b578",
+    "blake2": "f90c80cdb79e1a146f46dd7560d9fc618cd97cdde8da3539b82e3fba94960d5ac8b71b23cecc0b4dfe0f3d15adeecda7bb8ba2bee1a351a2561808ab5ee2554a",
+    "sha512": "b038f23ae73fa83df29ae29ae4231134940fcf9c2d3ff0e7a119313150c21071a775720342790dc5a338f889f939da5b27b4364bd422bc14739ce0ac9d8cadf3",
+    "sha384": "f35d2c3c5328419654385fb0c0d98024ea1276e27c48a5f645dc523ab1d10ba6ecf185a8573427d52ccbd935cec33887",
+    "sha256": "32167a279d5641a615b54f370e43a6c96843b6c88ed3530b0443e394728b6a68",
+    "sha1": "d6c29c7a995a02cdb10195c1fe1159c1d3ab42d2",
+    "md5": "7d20f8c5e046e455d438d396c1d15dc3",
+    "python_version": "3.10.12",
+    "entropy": 5.517338
   }
 }
