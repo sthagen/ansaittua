@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([8c86f76e ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json.sha256 "sha256:8c86f76e77ef5226739dd964c8841764b430ff5c7b65cc2321a7e1863cf57ac0")).
-<!--[[[end]]] (checksum: 62620faacf87a7de8d719082fc720a25)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([f33bbe50 ...](https://git.sr.ht/~sthagen/ansaittua/blob/default/etc/sbom/cdx.json.sha256 "sha256:f33bbe50b9936cdd90449d79d1ed71133ac3ff6d10b0ff0f32281b0297b49704")).
+<!--[[[end]]] (checksum: 68abfb059bc800f0e3930c60738ff7ff)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -15,11 +15,11 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api) | [3.41.4](https://pypi.org/project/atlassian-python-api/3.41.4/) | Apache Software License | Matt Harasymczuk                                                                                                                                                                                                                                                                                                                                                                                                                 | Python Atlassian REST API Wrapper                                       |
 | [cogapp](http://nedbatchelder.com/code/cog)                                   | [3.3.0](https://pypi.org/project/cogapp/3.3.0/)                 | MIT License             | Ned Batchelder                                                                                                                                                                                                                                                                                                                                                                                                                   | Cog: A content generator for executing Python snippets in source files. |
 | [jmespath](https://github.com/jmespath/jmespath.py)                           | [1.0.1](https://pypi.org/project/jmespath/1.0.1/)               | MIT License             | James Saryerwinnie                                                                                                                                                                                                                                                                                                                                                                                                               | JSON Matching Expressions                                               |
-| [pydantic](https://github.com/pydantic/pydantic)                              | [2.5.2](https://pypi.org/project/pydantic/2.5.2/)               | MIT License             | Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev>, Serge Matveenko <lig@countzero.co>, Marcelo Trylesinski <marcelotryle@gmail.com>, Sydney Runkle <sydneymarierunkle@gmail.com>, David Hewitt <mail@davidhewitt.io> | Data validation using Python type hints                                 |
+| [pydantic](https://github.com/pydantic/pydantic)                              | [2.5.3](https://pypi.org/project/pydantic/2.5.3/)               | MIT License             | Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@gmail.com>, Adrian Garcia Badaracco <1755071+adriangb@users.noreply.github.com>, Terrence Dorsey <terry@pydantic.dev>, David Montague <david@pydantic.dev>, Serge Matveenko <lig@countzero.co>, Marcelo Trylesinski <marcelotryle@gmail.com>, Sydney Runkle <sydneymarierunkle@gmail.com>, David Hewitt <mail@davidhewitt.io> | Data validation using Python type hints                                 |
 | [requests-cache](https://github.com/requests-cache/requests-cache)            | [1.1.1](https://pypi.org/project/requests-cache/1.1.1/)         | BSD License             | Roman Haritonov                                                                                                                                                                                                                                                                                                                                                                                                                  | A persistent cache for python requests                                  |
 | [scooby](https://github.com/banesullivan/scooby)                              | [0.9.2](https://pypi.org/project/scooby/0.9.2/)                 | MIT License             | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors                                                                                                                                                                                                                                                                                                                                                              | A Great Dane turned Python environment detective                        |
 | [typer](https://github.com/tiangolo/typer)                                    | [0.9.0](https://pypi.org/project/typer/0.9.0/)                  | MIT License             | Sebastián Ramírez                                                                                                                                                                                                                                                                                                                                                                                                                | Typer, build great CLIs. Easy to code. Based on Python type hints.      |
-<!--[[[end]]] (checksum: 308c0fc357447bb5d98d33bad7dbc130)-->
+<!--[[[end]]] (checksum: b88dd9f4edb3e608a4d4a641eed21e90)-->
 
 ### Indirect Dependencies
 
@@ -29,7 +29,7 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [Deprecated](https://github.com/tantale/deprecated)                                 | [1.2.14](https://pypi.org/project/Deprecated/1.2.14/)       | MIT License                          | Laurent LAPORTE                                                                       | Python @deprecated decorator to deprecate old python classes, functions or methods.                     |
 | [appdirs](http://github.com/ActiveState/appdirs)                                    | [1.4.4](https://pypi.org/project/appdirs/1.4.4/)            | MIT License                          | Trent Mick                                                                            | A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".       |
 | [attrs](https://www.attrs.org/en/stable/changelog.html)                             | [23.1.0](https://pypi.org/project/attrs/23.1.0/)            | MIT License                          | Hynek Schlawack <hs@ox.cx>                                                            | Classes Without Boilerplate                                                                             |
-| [cattrs](https://catt.rs)                                                           | [23.2.2](https://pypi.org/project/cattrs/23.2.2/)           | MIT License                          | Tin Tvrtkovic <tinchester@gmail.com>                                                  | Composable complex class support for attrs and dataclasses.                                             |
+| [cattrs](https://catt.rs)                                                           | [23.2.3](https://pypi.org/project/cattrs/23.2.3/)           | MIT License                          | Tin Tvrtkovic <tinchester@gmail.com>                                                  | Composable complex class support for attrs and dataclasses.                                             |
 | [certifi](https://github.com/certifi/python-certifi)                                | [2023.5.7](https://pypi.org/project/certifi/2023.5.7/)      | Mozilla Public License 2.0 (MPL 2.0) | Kenneth Reitz                                                                         | Python package for providing Mozilla's CA Bundle.                                                       |
 | [charset-normalizer](https://github.com/Ousret/charset_normalizer)                  | [3.2.0](https://pypi.org/project/charset-normalizer/3.2.0/) | MIT License                          | Ahmed TAHRI                                                                           | The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet. |
 | [click](https://palletsprojects.com/p/click/)                                       | [8.1.5](https://pypi.org/project/click/8.1.5/)              | BSD License                          | Pallets <contact@palletsprojects.com>                                                 | Composable command line interface toolkit                                                               |
@@ -43,7 +43,7 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 | [url-normalize](https://github.com/niksite/url-normalize)                           | [1.4.3](https://pypi.org/project/url-normalize/1.4.3/)      | MIT License                          | Nikolay Panov                                                                         | URL normalization for Python                                                                            |
 | [urllib3](https://github.com/urllib3/urllib3/blob/main/CHANGES.rst)                 | [2.0.3](https://pypi.org/project/urllib3/2.0.3/)            | MIT License                          | Andrey Petrov <andrey.petrov@shazow.net>                                              | HTTP library with thread-safe connection pooling, file post, and more.                                  |
 | [wrapt](https://github.com/GrahamDumpleton/wrapt)                                   | [1.15.0](https://pypi.org/project/wrapt/1.15.0/)            | BSD License                          | Graham Dumpleton                                                                      | Module for decorators, wrappers and monkey patching.                                                    |
- <!--[[[end]]] (checksum: bbb71534c93883b8610ef4220ebe20ee)-->
+ <!--[[[end]]] (checksum: eeacef30febe60b8f409008bc1aa19e0)-->
 
 ## Dependency Tree(s)
 
@@ -78,14 +78,14 @@ atlassian-python-api==3.41.4
 └── six [required: Any, installed: 1.16.0]
 cogapp==3.3.0
 jmespath==1.0.1
-pydantic==2.5.2
+pydantic==2.5.3
 ├── annotated-types [required: >=0.4.0, installed: 0.5.0]
-├── pydantic-core [required: ==2.14.5, installed: 2.14.5]
+├── pydantic-core [required: ==2.14.6, installed: 2.14.6]
 │   └── typing-extensions [required: >=4.6.0,!=4.7.0, installed: 4.7.1]
 └── typing-extensions [required: >=4.6.1, installed: 4.7.1]
 requests-cache==1.1.1
 ├── attrs [required: >=21.2, installed: 23.1.0]
-├── cattrs [required: >=22.2, installed: 23.2.2]
+├── cattrs [required: >=22.2, installed: 23.2.3]
 │   ├── attrs [required: >=23.1.0, installed: 23.1.0]
 │   ├── exceptiongroup [required: >=1.1.1, installed: 1.1.2]
 │   └── typing-extensions [required: >=4.1.0,!=4.6.3, installed: 4.7.1]
@@ -103,4 +103,4 @@ typer==0.9.0
 ├── click [required: >=7.1.1,<9.0.0, installed: 8.1.5]
 └── typing-extensions [required: >=3.7.4.3, installed: 4.7.1]
 ````
-<!--[[[end]]] (checksum: b7c7d924edfb658e1b6010dc86fddb60)-->
+<!--[[[end]]] (checksum: 21f5e60e8f2c25745143c1a82541f341)-->
