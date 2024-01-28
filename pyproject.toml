@@ -7,6 +7,7 @@ name = "ansaittua"
 version = "2022.7.30"
 description = "Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly."
 readme = "README.md"
+license = {file = "LICENSE"}
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 maintainers = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 classifiers = [
