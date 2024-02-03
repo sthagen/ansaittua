@@ -1,4 +1,5 @@
 """Earned Value Management (Finnish: ansaittua arvonhallintaa) when coding swiftly."""
+
 import os
 import pathlib
 from typing import List
