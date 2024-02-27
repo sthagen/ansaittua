@@ -20,6 +20,7 @@
       "last_month": -1,
       "last_week": -1
     },
+    "dynamic": null,
     "home_page": "https://git.sr.ht/~sthagen/ansaittua",
     "keywords": "code-generation,developer-tools,validation,verification",
     "license": "",
@@ -36,6 +37,7 @@
       "Source Code": "https://git.sr.ht/~sthagen/ansaittua",
       "Test Coverage": "https://codes.dilettant.life/coverage/ansaittua"
     },
+    "provides_extra": null,
     "release_url": "https://pypi.org/project/ansaittua/2022.7.30/",
     "requires_dist": [
       "atlassian-python-api (>=3.25.0)",
